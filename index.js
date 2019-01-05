@@ -2,7 +2,7 @@ function shout(string) {
   return 
   string.toUpperCase()
 }
-function sayHiToGrandma(Hello){
+function sayHiToGrandma(I love you){
   return
-  string.toUpperCase(I love you)
+  string.toUpperCase()
 }
