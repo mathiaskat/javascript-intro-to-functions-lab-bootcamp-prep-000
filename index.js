@@ -2,8 +2,8 @@ function shout(string) {
   return 
   string.toUpperCase()
 }
-function sayHiToGrandma(){
+function sayI love you(){
   return
   string.toUpperCase()
-  console.log('I love you')
+  
 }
